@@ -1,0 +1,15 @@
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\bin\Debug\net6.0\MersenneTwister.exe
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\bin\Debug\net6.0\MersenneTwister.deps.json
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\bin\Debug\net6.0\MersenneTwister.runtimeconfig.json
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\bin\Debug\net6.0\MersenneTwister.dll
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\bin\Debug\net6.0\MersenneTwister.pdb
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.csproj.AssemblyReference.cache
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.AssemblyInfoInputs.cache
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.AssemblyInfo.cs
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.dll
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\refint\MersenneTwister.dll
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.pdb
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\MersenneTwister.genruntimeconfig.cache
+C:\Users\ferha\source\repos\MersenneTwister\MersenneTwister\obj\Debug\net6.0\ref\MersenneTwister.dll
