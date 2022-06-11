@@ -1,2 +1,1 @@
-# Mersenne_Twister
- 
+# Mersenne Twister algoritması ile 1.000.000 bitlik bir şifre oluşturdum.Daha sonra hibrit bir mimariyle yeni bir şifre oluşturarak rastgele bitler üretmesini sağladım. Sürüm uyumsuzluğu yaşarsanız eğer .Net 6.0 ve Visual Studio 2022 kurarak tekrar deneyiniz çünkü kodlama yaparken .Net 6.0 ve VisualStudio 2022 kullanılarak yazılmıştır.
